@@ -1,0 +1,65 @@
+Google:
+accessToken
+: 
+"eyJhbGciOiJSUzI1NiIsImtpZCI6ImNmM2I1YWRhM2NhMzkxNTQ4ZDM1OTJiMzU5MjkyM2UzNjAxMmI5MTQiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiTW9jaCBSaWR3YW4gUW9kcmkiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUFjSFR0ZjZfYm9XMVdtckQ5a3QyX1daVF9aSk5hZERrYXFGdmp5LTlUa0Fzb09OSkhrPXM5Ni1jIiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL2luc3RhZ3JhbS1lODFiZSIsImF1ZCI6Imluc3RhZ3JhbS1lODFiZSIsImF1dGhfdGltZSI6MTY5MTQ3OTYyMiwidXNlcl9pZCI6IkoxRDlodTlmd2JhNDBMWXk5dnJITVNTRTJOaTIiLCJzdWIiOiJKMUQ5aHU5ZndiYTQwTFl5OXZySE1TU0UyTmkyIiwiaWF0IjoxNjkxNDc5NjIyLCJleHAiOjE2OTE0ODMyMjIsImVtYWlsIjoicmlkd2FucW9kcnl5QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7Imdvb2dsZS5jb20iOlsiMTEzNjk4ODYxODMwNzYwODkyNzk3Il0sImVtYWlsIjpbInJpZHdhbnFvZHJ5eUBnbWFpbC5jb20iXX0sInNpZ25faW5fcHJvdmlkZXIiOiJnb29nbGUuY29tIn19.pChc2KwHuWZZB8Rhcrwwp4vyPq-0jvyAZDZtMZojlabfOilJVl8LKGFGp4aFntXPbB4yCujQDyA87B2ZJU_aUq0ufBJK4mzlUiEByOGh1hrJiVBTEWkfj956kxkPOjLbGnyl2QPAEWbS1DvkMaAlgb68lYjxjTOCGARPacax6hUjx3rE4c6rpi79G2II-P0mIgep_a0NyRftkdE3hbkLuKulJYuy8e2euGf7V8QM1sgr2Mdeb5Xh58fx3di2NiNMzE-kB_3MhkHJSk-jJ5Y2yZDsSmcGENvBPxEhQCK-7Iot3aZvG65JFDRnpdeJ4GCkP_QSo0Z5upGGk2DBO6e_9g"
+auth
+: 
+AuthImpl {app: FirebaseAppImpl, heartbeatServiceProvider: Provider, appCheckServiceProvider: Provider, config: {…}, currentUser: UserImpl, …}
+displayName
+: 
+"Moch Ridwan Qodri"
+email
+: 
+"ridwanqodryy@gmail.com"
+emailVerified
+: 
+true
+isAnonymous
+: 
+false
+metadata
+: 
+UserMetadata {createdAt: '1691467548445', lastLoginAt: '1691479594933', lastSignInTime: 'Tue, 08 Aug 2023 07:26:34 GMT', creationTime: 'Tue, 08 Aug 2023 04:05:48 GMT'}
+phoneNumber
+: 
+null
+photoURL
+: 
+"https://lh3.googleusercontent.com/a/AAcHTtf6_boW1WmrD9kt2_WZT_ZJNadDkaqFvjy-9TkAsoONJHk=s96-c"
+proactiveRefresh
+: 
+ProactiveRefresh {user: UserImpl, isRunning: false, timerId: null, errorBackoff: 30000}
+providerData
+: 
+[{…}]
+providerId
+: 
+"firebase"
+reloadListener
+: 
+null
+reloadUserInfo
+: 
+{localId: 'J1D9hu9fwba40LYy9vrHMSSE2Ni2', email: 'ridwanqodryy@gmail.com', displayName: 'Moch Ridwan Qodri', photoUrl: 'https://lh3.googleusercontent.com/a/AAcHTtf6_boW1WmrD9kt2_WZT_ZJNadDkaqFvjy-9TkAsoONJHk=s96-c', emailVerified: true, …}
+stsTokenManager
+: 
+StsTokenManager {refreshToken: 'AMf-vByqsuY0G23XtTjb8Px_GjcsRcmcBH_ryY7G5kh_JkypDw…RdPtX1VU7oIDM0eBDSasWXfC_MraDnu8SNoP_fX2F1R6H7U1N', accessToken: 'eyJhbGciOiJSUzI1NiIsImtpZCI6ImNmM2I1YWRhM2NhMzkxNT…CK-7Iot3aZvG65JFDRnpdeJ4GCkP_QSo0Z5upGGk2DBO6e_9g', expirationTime: 1691483342182}
+tenantId
+: 
+null
+uid
+: 
+"J1D9hu9fwba40LYy9vrHMSSE2Ni2"
+
+
+
+
+
+
+Facebook:
+displayName: "Ahmad Kurnia"
+email: "sajaenaroh@gmail.com"
+phoneNumber: null
+photoURL: "https://graph.facebook.com/6949480145063716/picture"
+providerId: "facebook.com"
+uid: "6949480145063716"
